@@ -15,4 +15,5 @@
     padding-block: 14px;
     border: solid 1px var(--stroke-color);
     border-inline: none;
+    justify-content: space-between;
 }
