@@ -1,6 +1,11 @@
 #primary {
     padding-block: 20px;
-    
+
+    div {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
 
     /* nesting css */
     div:nth-child(2) {
